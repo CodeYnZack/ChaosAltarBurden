@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChaosAltar:jar">
+    <output-path>$USER_HOME$/Documents/RSPeer/scripts</output-path>
+    <root id="archive" name="ChaosAltar.jar">
+      <element id="module-output" name="ChaosAltar" />
+    </root>
+  </artifact>
+</component>
