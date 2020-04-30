@@ -3,5 +3,5 @@ RsPeer script: Buries bones at Chaos Altar and switches world once there are no 
 
 ##Todo
 
-World hop on player detection
-Toggle run energy
+~ World hop on player detection
+~ Toggle run energy
